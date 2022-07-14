@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
 :root{
-    --main-color:#e38528;
+    --main-color:indigo;
 }
 
 *{
@@ -22,7 +22,7 @@ html{
 }
 
 body{
-    background: palegoldenrod;
+    background: url(../public/patrick-star-pink-face-pp2skm5qh8k8grwu.jpg) no-repeat center fixed; 
     padding-left: 30rem;
 }
 
